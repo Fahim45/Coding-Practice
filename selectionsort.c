@@ -1,5 +1,4 @@
 ///Selection Sort Code
-///Thank me
 
 #include<stdio.h>
 int main()
